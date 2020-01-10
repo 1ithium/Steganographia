@@ -1,0 +1,10 @@
+C:\Users\vikis\source\repos\Steganographia\Steganographia\bin\Debug\Steganographia.exe.config
+C:\Users\vikis\source\repos\Steganographia\Steganographia\bin\Debug\Steganographia.exe
+C:\Users\vikis\source\repos\Steganographia\Steganographia\bin\Debug\Steganographia.pdb
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.csprojAssemblyReference.cache
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.Form1.resources
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.Properties.Resources.resources
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.csproj.GenerateResource.cache
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.csproj.CoreCompileInputs.cache
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.exe
+C:\Users\vikis\source\repos\Steganographia\Steganographia\obj\Debug\Steganographia.pdb
